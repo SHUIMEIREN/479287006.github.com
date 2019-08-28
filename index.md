@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# 欢迎使用 Markdown在线编辑器 MdEditor
 
-You can use the [editor on GitHub](https://github.com/SHUIMEIREN/479287006.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+**Markdown是一种轻量级的「标记语言」**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![markdown](https://www.mdeditor.com/images/logos/markdown.png "markdown")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”
 
-# Header 1
-## Header 2
-### Header 3
+##个人简介
+xxx
+[我的博客](https://www.cnblogs.com/xuexidememeda/)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SHUIMEIREN/479287006.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
