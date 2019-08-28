@@ -10,6 +10,7 @@
       <p><b>石家庄铁道大学软件工程</b></p>
       <p><b>邮箱：479287006@qq.com</b></p>
       <p><b>地址：河北省石家庄市北二环东路17号石家庄铁道大学，9栋宿舍楼，邮编054400</b></p>
+       <p><a href="https://www.cnblogs.com/xuexidememeda/">个人博客园</a></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
